@@ -1,0 +1,5 @@
+$ ruby -v
+ruby 3.1.0dev (2021-04-21T23:29:26Z master 5512353d97) [x86_64-darwin19]
+
+$ bundle -v
+Bundler version 2.3.0.dev
